@@ -8,8 +8,6 @@ tags: [norsk, politikk]
 
 *Denne artikkelen ble først publisert i [Pan, tidsskriftet Harvests arena for politisk diskusjon og refleksjon](https://www.harvestmagazine.no/pan/gi-eiendomsskatten-tilbake-til-innbyggerne).*
 
-**Når regningen for pandemien skal betales, bør Oslo benytte anledningen til å gjøre eiendomsskatten til tidenes mest populære skatt.**
-
 ***
 
 Norske kommuner har måttet grave dypt i lommene det siste året. Bare for å håndtere kostnadsøkninger i helsesektoren på grunn av smittesituasjonen har Oslo alene satt av 2 milliarder kroner på årets budsjett. På lang sikt er frykten at arbeidsledigheten i kjølvannet av pandemien biter seg fast på et høyt nivå. Mesteparten av kommunenes inntekter kommer fra inntektsskatt fra lønnstagere og bedrifter. Høyere ledighet betyr lavere skatteinntekter, høyere utgifter til sosialhjelp for dem som ikke fanges opp av statlige trygdeordninger og større press på andre sosiale ordninger i kommunen.
