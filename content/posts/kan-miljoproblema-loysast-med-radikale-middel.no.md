@@ -24,3 +24,29 @@ Og det ville vera meiningslaust – *dersom miljøproblema faktisk kan løysast 
 Men har vi eigentleg noko val? Må vi ikkje, i møte med ei så altomfattande krise, satsa alt på ei tilnærming som faktisk har ambisjonar om å løysa problemet – sjølv om det har vore så som så med suksessen hittil? Svaret er i siste instans avhengig av moralsk grunnsyn, og fleire tusen års arbeid med moralfilosofi har ikkje gjeve oss noko endeleg, objektivt svar på kva som er rett moral. Men ser vi meir pragmatisk på det, kan vi spørja kva vi kan gjera for å få eit best mogleg liv for oss sjølve og dei som kjem etter oss. Då er det klart at om vi som grøne tek på oss ei rolle som går over kreftene våre, vil vi mislukkast med å fylla den rolla – og, for å seia det med den stoiske filosofen Epiktet: den rolla vi *kunne* ha makta, den har vi late liggja.
 
 Når vi ikkje let oss blenda av det vi likevel ikkje kan gjera noko med, kan vi sjå klarare kva vi faktisk kan gjera noko med. Vil vi gjera det beste ut av situasjonen vi no står i, kan ideen om ei djuptgripande og lynrask grøn omstilling visa seg å vera ei blindgate.
+
+***
+
+*Addendum: [Vi har enno tid til å reparera livbåtane](https://www.harvestmagazine.no/pan/vi-har-enno-tid-til-a-reparera-livbatane), Pan 22.08.2018*
+
+Tale Hammerø Ellingvåg ([Radikale, fornuftige middel har fungert i miljøkampen](https://www.harvestmagazine.no/pan/radikale-fornuftige-middel-har-fungert-i-miljokampen)) og Bjørn Stærk ([Hva grønne kan lære av konservative](https://www.harvestmagazine.no/pan/hva-gronne-kan-laere-av-konservative)) les innlegget mitt som eit opprop for «moderat» miljøpolitikk, ein kanskje litt grønare *business as usual*. Det er forståeleg, men feil. La meg presisera:
+
+Pragmatiske justeringar her og der kan openbert ikkje løysa dei viktigaste, globale miljøproblema. Til det er problema alt for store og langt komne. Ja, vi har «tømt kloakk i drikkevatnet» så lenge at ei gradvis omstilling ikkje duger. Men kva gjer vi om drikkevasskjelda faktisk er øydelagd i all overskodeleg framtid? Korleis møta ein situasjon der vi får store problem med å skaffa reint drikkevatn til alle, same kva vi finn på?
+
+Verda er, som Stærk er inne på, full av grenser som det kan vera klokt å respektera. Her er ei: grensa for kor mykje dumskap som kan vegast opp av velmeinte grep i etterkant.
+
+Mange miljøvernarar ser dette. I siste valkamp opplevde eg korleis sentrale folk i MDG fronta ein optimisme som dei personleg ikkje lenger trudde på. Resultatet vart ein tvungen, moralistisk optimisme der vi skulle vinna veljarar ved å få dei til å kjenna seg overlegne utviklingspessimistar, innvandringsmotstandarar og nett-troll. Optimisme som spring ut frå hjarta er smittande og positiv. Den grøne tvangsoptimismen opplevde eg som eit sluk av livskraft.
+
+Det næraste vi kjem eit dogme i den grøne rørsla i dag er at miljøkrisa kan – og skal – løysast med ein kombinasjon av aktiv politikk og teknologiske framsteg. Vi skal kle fjellet med vindmøller, fylla byane med elektroniske sensorar og innhylla det heile i ei skodde av trådlause nettverk. Vi skal regulera oss bort frå gamaldags, sløsete fossilteknologi, til fordel for moderne, smart og effektiv høgteknologi.
+
+Slik påskundar vi grøne utviklinga mot eit meir komplekst samfunn. Det har ei bakside. Kompleksiteten er skjør. Husa, bilane og maskinane til besteforeldregenerasjonen var ikkje energieffektive etter vår målestokk, men dei kunne haldast ved like og reparerast med enkle middel. Den siste store, langvarige krisa i det norske samfunnet – krigsåra 1940–1945 – vart handtert av ein generasjon der nesten ingen hadde meir enn sju års skulegang. Folk flest var «lågt utdanna», men dei hadde praktisk kunnskap og erfaring i eit monn vi som er unge i dag berre kan drøyma om.
+
+Skal vi ta våre eigne påstandar alvorleg, må vi vera opne for at minst like alvorlege kriser vil råka samfunnet i vår levetid, som direkte og indirekte fylgjer av miljøproblema. Det er like dumt å la vera å førebu seg på dette som det er prisverdig å arbeida for å løysa dei problema vi kan.
+
+Vi står overfor eit ubehageleg strategisk val: Skal vi satsa på ein politikk som berre kanskje kan løysa miljøproblema, men som heilt sikkert gjer samfunnet meir komplekst og sårbart? Eller skal vi satsa på å gjera samfunnet enklare og meir robust, samstundes som vi reduserer det økologiske fotavtrykket, vel vitande om at vi høgst sannsynleg ikkje greier å redusera det raskt nok til å unngå katastrofale konsekvensar?
+
+Går vi for forenkling, har vi ein rik grøn tradisjon å byggja på – idear og erfaringar om korleis vi kan få mykje ut av lite, om allsidigheit og sjølvberging, om menneskevenleg teknologi og robuste lokalsamfunn, om naturvern og kulturvern. Vi har ikkje lenger den luksusen å kunna tru at desse ideane kan «redda planeten», men vi har ein fordel som hippie-generasjonen ikkje hadde: vi kan læra av alle feila som vart gjort på 1970-talet, og som bidrog til at den store miljøbylgja ebba ut i Reagan og Thatchers tiår.
+
+Vi ville måtta greia oss utan den liberale utviklingsoptimismen. Til gjengjeld kan vi vera dei som bergar det beste i konservativ tenking frå å rotna i arkivet på Høyres Hus. Det tykkjer eg høyrest ut som ein god handel.
+
+At det er for seint å snu skuta tyder ikkje at det er for seint å reparera livbåtane og friska opp symjeferdigheitene. Men det ser ikkje ut til at nokon andre vil gjera det for oss.
