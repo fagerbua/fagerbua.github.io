@@ -4,6 +4,8 @@ title = "handsomehome.net"
 theme = "ezhil"
 
 copyright = "© 2021 Jarle Fagerheim"
+defaultContentLanguage = "no"
+
 
 [params]
     subtitle = "Jarle Fagerheim"
