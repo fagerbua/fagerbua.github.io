@@ -8,3 +8,13 @@ copyright = "© 2021 Jarle Fagerheim"
 [params]
     subtitle = "Jarle Fagerheim"
     customCSS = "custom.css"
+
+[languages]
+    [languages.no]
+        [languages.no.params]
+            subtitle = "Jarle Fagerheims hjørne av verdsveven"
+
+
+    [languages.en]
+        [languages.en.params]
+            subtitle = "Jarle Fagerheim's corner of the World Wide Web"
