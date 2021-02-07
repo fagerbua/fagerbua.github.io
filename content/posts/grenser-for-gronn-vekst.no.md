@@ -2,7 +2,7 @@
 ---
 title: "Grenser for grønn vekst"
 date: 2019-06-02T10:37:55+01:00
-description: "Ideen om et samfunn med reell grønn vekst er som kommunistenes drøm om det klasseløse samfunnet: en visjon som det fort vil gjøre mer skade enn gagn å forsøke å realisere. Heldigvis kan en mer meningsfylt hverdag gå hånd i hånd med en krympende pengeøkonomi."
+description: "Ideen om et samfunn med reell grønn vekst er som kommunistenes drøm om det klasseløse samfunnet."
 draft: false
 ---
 *Dette innlegget ble først publisert i [Pan, tidsskriftet Harvests arena for politisk diskusjon og refleksjon](https://www.harvestmagazine.no/pan/grenser-for-gronn-vekst). Les også Stoknes' tilsvar ([8 nyanser av grønn vekst](https://www.harvestmagazine.no/pan/7-8-nyanser-av-gronn-vekst-1)) og min oppfølger ([Miljøbevegelsens vanskelige dilemma](/no/posts/miljobevegelsens-vanskelige-dilemma)).*

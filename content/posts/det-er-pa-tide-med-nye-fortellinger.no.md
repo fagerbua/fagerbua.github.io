@@ -1,7 +1,7 @@
 ---
 title: "På tide med nye fortellinger"
 date: 2019-06-12T10:37:55+01:00
-description: "Et desillusjonert MDG-medlems forsøk på konstruktiv sutring om partiets retoriske retning"
+description: "Et desillusjonert MDG-medlems forsøk på konstruktiv sutring om partiets retoriske retning."
 draft: false
 ---
 

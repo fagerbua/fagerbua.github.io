@@ -1,7 +1,7 @@
 ---
 title: "Miljøbevegelsens vanskelige dilemma"
 date: 2019-06-19T10:37:55+01:00
-description: "Det er bare så alt for enkelt å se for seg en fremtid hvor tilhengere av grønn vekst får gjennomslag for tiltak som store mengder ny sol- og vindkraft, nye lyntogstrekninger og fortsatt urbanisering, samtidig som fossiløkonomien humper og går parallelt, og det samlede resultatet forblir mer grått enn grønt."
+description: "Det er bare så alt for enkelt å se for seg en fremtid hvor tilhengere av grønn vekst får gjennomslag for tiltak samtidig som fossiløkonomien humper og går parallelt, og resultatet blir mer grått enn grønt."
 draft: false
 ---
 *Dette innlegget ble først publisert i [Pan, tidsskriftet Harvests arena for politisk diskusjon og refleksjon](https://www.harvestmagazine.no/pan/miljobevegelsens-vanskelige-dilemma).*

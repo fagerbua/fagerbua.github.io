@@ -1,7 +1,7 @@
 ---
 title: "Bruksanvisning for en verden i endring"
 date: 2020-03-14T10:37:55+01:00
-description: "Anmeldelse av jubileumsutgaven av John Michael Greers \"The Long Descent\""
+description: "Bokessay i anledning 10-årsutgaven av The Long Descent."
 draft: false
 ---
 
