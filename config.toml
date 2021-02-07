@@ -1,4 +1,10 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "handsomehome.net"
 theme = "ezhil"
+
+copyright = "© 2021 Jarle Fagerheim"
+
+[params]
+    subtitle = "Jarle Fagerheim"
+    customCSS = "custom.css"
