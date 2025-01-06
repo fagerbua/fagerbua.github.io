@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on handsomehome.net</title>
+    <link>https://handsomehome.net/en/pages/</link>
+    <description>Recent content in Pages on handsomehome.net</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>© Jarle Fagerheim</copyright>
+    <lastBuildDate>Sun, 05 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://handsomehome.net/en/pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact me</title>
+      <link>https://handsomehome.net/en/pages/contact/</link>
+      <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://handsomehome.net/en/pages/contact/</guid>
+      <description>&lt;p&gt;You can reach out to me by e-mail. In the address field, type in my first name and then &lt;em&gt;@hey.com&lt;/em&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Nice words and love letters are particularly welcome, and will be answered promptly.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://handsomehome.net/en/</loc>
-    <lastmod>2024-01-20T11:25:25+01:00</lastmod>
+    <lastmod>2025-01-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="no"
@@ -13,6 +13,32 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://handsomehome.net/en/"
+                />
+  </url><url>
+    <loc>https://handsomehome.net/en/pages/contact/</loc>
+    <lastmod>2025-01-05T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://handsomehome.net/pages/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://handsomehome.net/en/pages/contact/"
+                />
+  </url><url>
+    <loc>https://handsomehome.net/en/pages/</loc>
+    <lastmod>2025-01-05T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://handsomehome.net/pages/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://handsomehome.net/en/pages/"
                 />
   </url><url>
     <loc>https://handsomehome.net/en/posts/music/</loc>
@@ -67,8 +93,151 @@
                 href="https://handsomehome.net/en/posts/music/liturgical/grosser-gott/"
                 />
   </url><url>
+    <loc>https://handsomehome.net/en/posts/music/recordings/2011-markus/</loc>
+    <lastmod>2011-09-03T11:25:25+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://handsomehome.net/posts/music/recordings/2011-markus/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://handsomehome.net/en/posts/music/recordings/2011-markus/"
+                />
+  </url><url>
+    <loc>https://handsomehome.net/en/posts/music/recordings/2011-skien/</loc>
+    <lastmod>2011-04-23T11:25:25+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://handsomehome.net/posts/music/recordings/2011-skien/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://handsomehome.net/en/posts/music/recordings/2011-skien/"
+                />
+  </url><url>
+    <loc>https://handsomehome.net/en/posts/music/recordings/2010-markus/</loc>
+    <lastmod>2010-12-28T11:25:25+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://handsomehome.net/posts/music/recordings/2010-markus/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://handsomehome.net/en/posts/music/recordings/2010-markus/"
+                />
+  </url><url>
+    <loc>https://handsomehome.net/en/posts/music/recordings/2010-uranienborg/</loc>
+    <lastmod>2010-11-21T11:25:25+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://handsomehome.net/posts/music/recordings/2010-uranienborg/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://handsomehome.net/en/posts/music/recordings/2010-uranienborg/"
+                />
+  </url><url>
+    <loc>https://handsomehome.net/en/posts/music/recordings/2009-markus/</loc>
+    <lastmod>2009-12-29T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://handsomehome.net/posts/music/recordings/2009-markus/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://handsomehome.net/en/posts/music/recordings/2009-markus/"
+                />
+  </url><url>
     <loc>https://handsomehome.net/en/posts/music/articles/uranienborg-organ-inauguration/</loc>
     <lastmod>2009-04-11T09:42:35+01:00</lastmod>
+  </url><url>
+    <loc>https://handsomehome.net/en/posts/music/recordings/2008-malvern/</loc>
+    <lastmod>2008-12-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://handsomehome.net/posts/music/recordings/2008-malvern/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://handsomehome.net/en/posts/music/recordings/2008-malvern/"
+                />
+  </url><url>
+    <loc>https://handsomehome.net/en/posts/music/recordings/2008-07-26-moss/</loc>
+    <lastmod>2008-07-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://handsomehome.net/posts/music/recordings/2008-07-26-moss/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://handsomehome.net/en/posts/music/recordings/2008-07-26-moss/"
+                />
+  </url><url>
+    <loc>https://handsomehome.net/en/posts/music/recordings/2008-07-22-tromsdalen/</loc>
+    <lastmod>2008-07-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://handsomehome.net/posts/music/recordings/2008-07-22-tromsdalen/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://handsomehome.net/en/posts/music/recordings/2008-07-22-tromsdalen/"
+                />
+  </url><url>
+    <loc>https://handsomehome.net/en/posts/music/recordings/2008-06-19-moss/</loc>
+    <lastmod>2008-06-19T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://handsomehome.net/posts/music/recordings/2008-06-19-moss/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://handsomehome.net/en/posts/music/recordings/2008-06-19-moss/"
+                />
+  </url><url>
+    <loc>https://handsomehome.net/en/posts/music/recordings/2008-06-12-moss/</loc>
+    <lastmod>2008-06-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://handsomehome.net/posts/music/recordings/2008-06-12-moss/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://handsomehome.net/en/posts/music/recordings/2008-06-12-moss/"
+                />
+  </url><url>
+    <loc>https://handsomehome.net/en/posts/music/recordings/2007-moss/</loc>
+    <lastmod>2007-09-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://handsomehome.net/posts/music/recordings/2007-moss/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://handsomehome.net/en/posts/music/recordings/2007-moss/"
+                />
   </url><url>
     <loc>https://handsomehome.net/en/posts/misc/</loc>
     <lastmod>2005-12-23T11:25:25+01:00</lastmod>
@@ -86,8 +255,60 @@
     <loc>https://handsomehome.net/en/posts/misc/little-christmas-eve/</loc>
     <lastmod>2005-12-23T11:25:25+01:00</lastmod>
   </url><url>
+    <loc>https://handsomehome.net/en/posts/music/recordings/2005-midlands/</loc>
+    <lastmod>2005-09-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://handsomehome.net/posts/music/recordings/2005-midlands/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://handsomehome.net/en/posts/music/recordings/2005-midlands/"
+                />
+  </url><url>
+    <loc>https://handsomehome.net/en/posts/music/recordings/2005-trondelag/</loc>
+    <lastmod>2005-08-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://handsomehome.net/posts/music/recordings/2005-trondelag/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://handsomehome.net/en/posts/music/recordings/2005-trondelag/"
+                />
+  </url><url>
+    <loc>https://handsomehome.net/en/posts/music/recordings/2005-stavanger/</loc>
+    <lastmod>2005-07-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://handsomehome.net/posts/music/recordings/2005-stavanger/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://handsomehome.net/en/posts/music/recordings/2005-stavanger/"
+                />
+  </url><url>
     <loc>https://handsomehome.net/en/posts/music/articles/christian-schmitt-2004/</loc>
     <lastmod>2004-10-08T11:25:25+01:00</lastmod>
+  </url><url>
+    <loc>https://handsomehome.net/en/posts/music/recordings/2002-bodo/</loc>
+    <lastmod>2002-08-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://handsomehome.net/posts/music/recordings/2002-bodo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://handsomehome.net/en/posts/music/recordings/2002-bodo/"
+                />
   </url><url>
     <loc>https://handsomehome.net/en/categories/</loc>
     <xhtml:link
