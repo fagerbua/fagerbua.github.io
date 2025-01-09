@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://handsomehome.net/</loc>
-    <lastmod>2025-01-05T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -13,6 +13,45 @@
                 rel="alternate"
                 hreflang="no"
                 href="https://handsomehome.net/"
+                />
+  </url><url>
+    <loc>https://handsomehome.net/posts/music/</loc>
+    <lastmod>2025-01-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://handsomehome.net/en/posts/music/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://handsomehome.net/posts/music/"
+                />
+  </url><url>
+    <loc>https://handsomehome.net/posts/music/compositions/salve-regina-fugue/</loc>
+    <lastmod>2025-01-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://handsomehome.net/en/posts/music/compositions/salve-regina-fugue/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://handsomehome.net/posts/music/compositions/salve-regina-fugue/"
+                />
+  </url><url>
+    <loc>https://handsomehome.net/posts/</loc>
+    <lastmod>2025-01-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://handsomehome.net/en/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://handsomehome.net/posts/"
                 />
   </url><url>
     <loc>https://handsomehome.net/pages/contact/</loc>
@@ -47,19 +86,6 @@
     <loc>https://handsomehome.net/posts/poetry/den-prinsippfaste-vegetarianer/</loc>
     <lastmod>2025-01-03T09:42:35+01:00</lastmod>
   </url><url>
-    <loc>https://handsomehome.net/posts/</loc>
-    <lastmod>2025-01-03T09:42:35+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://handsomehome.net/en/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="no"
-                href="https://handsomehome.net/posts/"
-                />
-  </url><url>
     <loc>https://handsomehome.net/posts/poetry/68-vise/</loc>
     <lastmod>2024-12-06T09:42:35+01:00</lastmod>
   </url><url>
@@ -73,20 +99,7 @@
     <lastmod>2024-10-23T09:42:35+01:00</lastmod>
   </url><url>
     <loc>https://handsomehome.net/posts/poetry/wesley-herrens-fest/</loc>
-    <lastmod>2024-10-23T09:42:35+01:00</lastmod>
-  </url><url>
-    <loc>https://handsomehome.net/posts/music/</loc>
-    <lastmod>2024-01-20T11:25:25+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://handsomehome.net/en/posts/music/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="no"
-                href="https://handsomehome.net/posts/music/"
-                />
+    <lastmod>2024-10-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://handsomehome.net/posts/music/liturgical/elmswood/</loc>
     <lastmod>2024-01-20T11:25:25+01:00</lastmod>
@@ -104,9 +117,6 @@
     <loc>https://handsomehome.net/posts/poetry/tenk-at-vi-her-idag/</loc>
     <lastmod>2024-01-18T09:42:35+01:00</lastmod>
   </url><url>
-    <loc>https://handsomehome.net/posts/music/compositions/fugue-in-c-minor/</loc>
-    <lastmod>2024-01-17T11:25:25+01:00</lastmod>
-  </url><url>
     <loc>https://handsomehome.net/posts/music/liturgical/grosser-gott/</loc>
     <lastmod>2024-01-17T11:25:25+01:00</lastmod>
     <xhtml:link
@@ -118,6 +128,19 @@
                 rel="alternate"
                 hreflang="no"
                 href="https://handsomehome.net/posts/music/liturgical/grosser-gott/"
+                />
+  </url><url>
+    <loc>https://handsomehome.net/posts/music/compositions/fugue-in-c-minor/</loc>
+    <lastmod>2024-01-17T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://handsomehome.net/en/posts/music/compositions/fugue-in-c-minor/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://handsomehome.net/posts/music/compositions/fugue-in-c-minor/"
                 />
   </url><url>
     <loc>https://handsomehome.net/posts/poetry/chesterton-julesong/</loc>
