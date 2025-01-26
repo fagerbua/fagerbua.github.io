@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://handsomehome.net/</loc>
-    <lastmod>2025-01-09T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-26T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>https://handsomehome.net/posts/music/</loc>
-    <lastmod>2025-01-09T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-26T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -26,6 +26,22 @@
                 rel="alternate"
                 hreflang="no"
                 href="https://handsomehome.net/posts/music/"
+                />
+  </url><url>
+    <loc>https://handsomehome.net/posts/music/liturgical/hoylovet-jesus-kristus/</loc>
+    <lastmod>2025-01-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://handsomehome.net/posts/</loc>
+    <lastmod>2025-01-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://handsomehome.net/en/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://handsomehome.net/posts/"
                 />
   </url><url>
     <loc>https://handsomehome.net/posts/music/compositions/salve-regina-fugue/</loc>
@@ -39,19 +55,6 @@
                 rel="alternate"
                 hreflang="no"
                 href="https://handsomehome.net/posts/music/compositions/salve-regina-fugue/"
-                />
-  </url><url>
-    <loc>https://handsomehome.net/posts/</loc>
-    <lastmod>2025-01-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://handsomehome.net/en/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="no"
-                href="https://handsomehome.net/posts/"
                 />
   </url><url>
     <loc>https://handsomehome.net/pages/contact/</loc>
