@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://handsomehome.net/en/</loc>
-    <lastmod>2025-01-09T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="no"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>https://handsomehome.net/en/posts/music/</loc>
-    <lastmod>2025-01-09T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="no"
@@ -26,6 +26,32 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://handsomehome.net/en/posts/music/"
+                />
+  </url><url>
+    <loc>https://handsomehome.net/en/posts/music/compositions/et-barn-er-fodt-koral/</loc>
+    <lastmod>2025-03-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://handsomehome.net/posts/music/compositions/et-barn-er-fodt-koral/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://handsomehome.net/en/posts/music/compositions/et-barn-er-fodt-koral/"
+                />
+  </url><url>
+    <loc>https://handsomehome.net/en/posts/</loc>
+    <lastmod>2025-03-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://handsomehome.net/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://handsomehome.net/en/posts/"
                 />
   </url><url>
     <loc>https://handsomehome.net/en/posts/music/compositions/salve-regina-fugue/</loc>
@@ -39,19 +65,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://handsomehome.net/en/posts/music/compositions/salve-regina-fugue/"
-                />
-  </url><url>
-    <loc>https://handsomehome.net/en/posts/</loc>
-    <lastmod>2025-01-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="no"
-                href="https://handsomehome.net/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://handsomehome.net/en/posts/"
                 />
   </url><url>
     <loc>https://handsomehome.net/en/pages/contact/</loc>
