@@ -1,0 +1,40 @@
+/* Print Stylesheet (print.css) */
+@media print {
+    /* Use minimal styling for a plain-text look */
+    body {
+        font-family: serif;
+        color: black;
+        background: none;
+        margin: 0;
+        padding: 0;
+    }
+    
+    /* Hide elements that should not be printed */
+    .add-hymn, button {
+        display: none !important;
+    }
+    
+    /* Ensure clear page breaks */
+    section {
+        page-break-after: always;
+    }
+
+    /* Simplify text appearance */
+    p {
+        font-size: 12pt;
+        font-weight: normal;
+        margin: 10px 0;
+    }
+    
+    /* Remove list styles */
+    ul {
+        padding: 0;
+        list-style: none;
+    }
+    
+    li {
+        font-size: 12pt;
+        font-weight: bold;
+        margin-bottom: 5px;
+    }
+}

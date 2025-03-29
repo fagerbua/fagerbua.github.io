@@ -1,0 +1,129 @@
+/* General Styles */
+body {
+    font-family: 'Georgia', serif;
+    background: #f5f3eb;
+    color: #3a3a3a;
+    text-align: center;
+    padding: 20px;
+}
+
+label {
+    font-size: 20px;
+    font-weight: bold;
+    display: inline-block;
+    margin-right: 10px;
+    text-align: left;
+}
+
+/* Hymn Board */
+#app {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+section {
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    width: 90%;
+    max-width: 600px;
+    text-align: center;
+}
+
+section.about {
+    max-width: unset;
+}
+
+.about p {
+    text-align: left;
+}
+
+.add-hymn {
+    display: flex;
+    justify-content: space-between;
+    align-items: center; /* Align items vertically in the center */
+}
+
+.add-hymn label {
+    display: flex;
+    flex: 1;
+    align-items: center; /* Ensure label content is vertically aligned */
+}
+
+.add-hymn input {
+    flex: 1; /* Make input take up as much space as possible */
+    padding: 10px;
+    font-size: 18px;
+    border-radius: 8px;
+    border: 2px solid #603813;
+    margin-left: 10px;
+    width: 100%; /* Ensure it stretches to fill the space */
+}
+
+.add-hymn button {
+    margin-right: 20px;
+}
+
+/* Hymn List */
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    background: #603813;
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+    padding: 10px 20px;
+    margin: 10px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 8px;
+}
+
+/* Buttons */
+button {
+    background: #d4a017;
+    border: none;
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+    padding: 10px 20px;
+    margin-left: 10px;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background 0.3s;
+}
+
+button:hover {
+    background: #b8860b;
+}
+
+/* Lyrics Pages */
+h2 {
+    font-size: 28px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: #603813;
+}
+
+h3 {
+    font-size: 22px;
+    color: #8b4513;
+    margin-top: 15px;
+}
+
+p {
+    background: #fff;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.1);
+    font-size: 20px;
+    line-height: 1.5;
+    margin: 10px 0;
+}
