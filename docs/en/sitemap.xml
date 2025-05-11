@@ -41,6 +41,19 @@
                 href="https://handsomehome.net/en/posts/music/compositions/et-barn-er-fodt-koral/"
                 />
   </url><url>
+    <loc>https://handsomehome.net/en/tags/featured/</loc>
+    <lastmod>2025-03-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://handsomehome.net/tags/featured/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://handsomehome.net/en/tags/featured/"
+                />
+  </url><url>
     <loc>https://handsomehome.net/en/posts/</loc>
     <lastmod>2025-03-25T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -52,6 +65,19 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://handsomehome.net/en/posts/"
+                />
+  </url><url>
+    <loc>https://handsomehome.net/en/tags/</loc>
+    <lastmod>2025-03-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://handsomehome.net/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://handsomehome.net/en/tags/"
                 />
   </url><url>
     <loc>https://handsomehome.net/en/posts/music/compositions/salve-regina-fugue/</loc>
@@ -347,30 +373,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://handsomehome.net/en/posts/music/recordings/2002-bodo/"
-                />
-  </url><url>
-    <loc>https://handsomehome.net/en/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="no"
-                href="https://handsomehome.net/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://handsomehome.net/en/categories/"
-                />
-  </url><url>
-    <loc>https://handsomehome.net/en/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="no"
-                href="https://handsomehome.net/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://handsomehome.net/en/tags/"
                 />
   </url>
 </urlset>

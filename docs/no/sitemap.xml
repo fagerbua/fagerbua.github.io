@@ -18,6 +18,19 @@
     <loc>https://handsomehome.net/posts/poetry/</loc>
     <lastmod>2025-05-06T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://handsomehome.net/tags/featured/</loc>
+    <lastmod>2025-05-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://handsomehome.net/en/tags/featured/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://handsomehome.net/tags/featured/"
+                />
+  </url><url>
     <loc>https://handsomehome.net/posts/poetry/kron-han/</loc>
     <lastmod>2025-05-06T00:00:00+00:00</lastmod>
   </url><url>
@@ -32,6 +45,19 @@
                 rel="alternate"
                 hreflang="no"
                 href="https://handsomehome.net/posts/"
+                />
+  </url><url>
+    <loc>https://handsomehome.net/tags/</loc>
+    <lastmod>2025-05-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://handsomehome.net/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://handsomehome.net/tags/"
                 />
   </url><url>
     <loc>https://handsomehome.net/posts/music/</loc>
@@ -173,25 +199,6 @@
   </url><url>
     <loc>https://handsomehome.net/posts/politics/pan/gi-eiendomsskatten-tilbake-til-innbyggerne/</loc>
     <lastmod>2021-02-01T10:01:11+01:00</lastmod>
-  </url><url>
-    <loc>https://handsomehome.net/tags/norsk/</loc>
-    <lastmod>2021-02-01T10:01:11+01:00</lastmod>
-  </url><url>
-    <loc>https://handsomehome.net/tags/politikk/</loc>
-    <lastmod>2021-02-01T10:01:11+01:00</lastmod>
-  </url><url>
-    <loc>https://handsomehome.net/tags/</loc>
-    <lastmod>2021-02-01T10:01:11+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://handsomehome.net/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="no"
-                href="https://handsomehome.net/tags/"
-                />
   </url><url>
     <loc>https://handsomehome.net/posts/politics/pan/bruksanvisning-for-en-verden-i-endring/</loc>
     <lastmod>2020-03-14T10:37:55+01:00</lastmod>
@@ -462,18 +469,6 @@
                 rel="alternate"
                 hreflang="no"
                 href="https://handsomehome.net/posts/music/recordings/2002-bodo/"
-                />
-  </url><url>
-    <loc>https://handsomehome.net/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://handsomehome.net/en/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="no"
-                href="https://handsomehome.net/categories/"
                 />
   </url>
 </urlset>
