@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://handsomehome.net/</loc>
-    <lastmod>2025-05-06T00:00:00+00:00</lastmod>
+    <lastmod>2025-05-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -15,11 +15,21 @@
                 href="https://handsomehome.net/"
                 />
   </url><url>
-    <loc>https://handsomehome.net/posts/poetry/</loc>
-    <lastmod>2025-05-06T00:00:00+00:00</lastmod>
+    <loc>https://handsomehome.net/posts/music/</loc>
+    <lastmod>2025-05-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://handsomehome.net/en/posts/music/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://handsomehome.net/posts/music/"
+                />
   </url><url>
     <loc>https://handsomehome.net/tags/featured/</loc>
-    <lastmod>2025-05-06T00:00:00+00:00</lastmod>
+    <lastmod>2025-05-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -31,11 +41,8 @@
                 href="https://handsomehome.net/tags/featured/"
                 />
   </url><url>
-    <loc>https://handsomehome.net/posts/poetry/kron-han/</loc>
-    <lastmod>2025-05-06T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://handsomehome.net/posts/</loc>
-    <lastmod>2025-05-06T00:00:00+00:00</lastmod>
+    <lastmod>2025-05-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -48,7 +55,7 @@
                 />
   </url><url>
     <loc>https://handsomehome.net/tags/</loc>
-    <lastmod>2025-05-06T00:00:00+00:00</lastmod>
+    <lastmod>2025-05-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -60,18 +67,24 @@
                 href="https://handsomehome.net/tags/"
                 />
   </url><url>
-    <loc>https://handsomehome.net/posts/music/</loc>
-    <lastmod>2025-03-25T00:00:00+00:00</lastmod>
+    <loc>https://handsomehome.net/posts/music/compositions/darwall-satb/</loc>
+    <lastmod>2025-05-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://handsomehome.net/en/posts/music/"
+                href="https://handsomehome.net/en/posts/music/compositions/darwall-satb/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="no"
-                href="https://handsomehome.net/posts/music/"
+                href="https://handsomehome.net/posts/music/compositions/darwall-satb/"
                 />
+  </url><url>
+    <loc>https://handsomehome.net/posts/poetry/</loc>
+    <lastmod>2025-05-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://handsomehome.net/posts/poetry/kron-han/</loc>
+    <lastmod>2025-05-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://handsomehome.net/posts/music/compositions/et-barn-er-fodt-koral/</loc>
     <lastmod>2025-03-25T00:00:00+00:00</lastmod>
